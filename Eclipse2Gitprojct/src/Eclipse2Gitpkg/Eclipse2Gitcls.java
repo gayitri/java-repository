@@ -7,6 +7,7 @@ public class Eclipse2Gitcls {
 		System.out.println("2nd changes");
 		System.out.println("3rd changes");
 		System.out.println("4th change");
+		System.out.println("5th change");
 
 	}
 }
